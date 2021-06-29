@@ -109,6 +109,7 @@ sensor:
             and:
               - lambda: "return id(${room}_brightness).state > 10;"
               - switch.is_on: enable
+              - lambda: "return id(selector).state < 1;"
               - switch.is_on: its_dark
           then:
             - switch.turn_on: spray
