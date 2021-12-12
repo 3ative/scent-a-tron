@@ -23,7 +23,7 @@ esphome:
 
   ## Change your Wi-Fi Details here ##
 wifi:
-  ssid: !secret ssid
+  ssid: !secret wifi_ssid
   password: !secret wifi_password
 
 logger:
