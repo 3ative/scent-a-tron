@@ -189,7 +189,7 @@ There are few different PCB's now but the ICs are pretty-much the same pinouts.
 Here's one of the options - Same connections, just on the underside of the PCB:
 ![New-Board](https://github.com/3ative/scent-a-tron/assets/51385971/e087943e-5188-42e2-85e4-95de97f97c71)
 
-If you have trouble with removing the IC and pull tracks, you can add you wires like this:
+If you have trouble with removing the IC and pull tracks, you can add your wires like this:
 ![Scrape-and-Solder](https://github.com/3ative/scent-a-tron/assets/51385971/65825314-ecd5-423e-a73f-f10d0f814aed)
 
 
