@@ -33,6 +33,7 @@ logger:
     light: none
 api:
 ota:
+  platform: esphome
 
 binary_sensor:
   - platform: gpio
