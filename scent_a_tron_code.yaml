@@ -12,7 +12,8 @@ globals:
 
 esphome:
   name: freshmatic_${room}
-  platform: ESP8266
+
+esp8266:
   board: d1_mini
 
   ## Change your Wi-Fi Details here ##
